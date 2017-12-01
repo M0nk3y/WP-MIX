@@ -1,24 +1,37 @@
 
 
+
 WP
 
-Abstract:
 
-Monkey (m0nk3y) Capital creates the first Inter-Blockchain fungibility mechanism [the Monkey Crypto Asset eXchange Platform (MCAXP)] allowing Inter-Blockchain exchange of a family of Waves and ER20 based existing Token Assets, and ceates the first Venture Currency [Monkey Inter-Exchange Token (MIX)] that is 1:1 fungible with a myriad of Monkey and Non-Monkey Tokens. 
 
-Intro: 
+ABSTRACT:
 
-While Blockchain Tokens have utility within their own system (typically either as use-case or store-of-value), they are vertically locked.  That is, with the exception of trading one blockchain token against another (value against value) on token exchanges, Tokens function only within their own blockchain, and only for specific and limited use cases.  The Monkey (m0nk3y) Crypto Asset eXchange Platform (MCAXP) will Liberate Token Utility to create numerous options for value creation, and will do this via novel 2 mechanisms. 
-
-1. The Monkey (m0nk3y) Inter-Exchange Software (MIXS) will allow real Inter-Blockchain transactions, meaning true 1:1 blockchain fungibility, and will redefine Tokens, Blockchains, and Utility. 
-
-2. MIXS will also upcycle dormant or devalued tokens by accepting token submissions and remitting Monkey Inter-Exchange (MIX) Tokens in return, thereby producing further inter blockchain utility options. 
+Monkey (m0nk3y) creates the first Inter-Blockchain fungibility mechanism [the Monkey Crypto Asset eXchange Platform (MCAXP)] allowing Inter-Blockchain exchange of a family of Waves and ER20 based existing Token Assets, and ceates the first Venture Currency [Monkey Inter-Exchange Token (MIX)] that is 1:1 fungible with a myriad of Monkey and Non-Monkey Tokens.  These blockchain innovations are made possible by Proof of Work (POW) mining. 
 
 
 
-Monkey Crytpo Asset Exchange Platform (MCAXP) Components:
+INTRODUCTION: 
 
-The Monkey Inter-Exchange Software (MIXS) provides the mechanims by which existing Waves and ER20 based Monkey Token Assets may be transferred from one blockchain to another.  There are currently 14 Monkey Assets:
+While Blockchain Tokens have utility within their own system (typically either as use-case or store-of-value), they are vertically locked.  That is, with the exception of trading one blockchain token against another (value against value) on token exchanges, Tokens function only within their own blockchain, and only for specific and limited use cases.  The Monkey (m0nk3y) Crypto Asset eXchange Platform (MCAXP) will liberate token utility and change the way in which tokens can create value.  MCAXP will do this via the novel mechanism named Proof of Value (POV) mining.  POV mining has 3 value components. 
+
+1.	POV mining will allow Inter-blockchain transactions via Blockchain Transfer Gateways (BTG’s).  BTG’s will allow real Inter-Blockchain transactions, meaning true 1:1 blockchain fungibility, among designated assets.  True Inter-Blockchain transactions will further redefine tokens, blockchains, value, and utility.
+
+2.	POV mining will also provide Token Immigration.  POV Token Immigration works like this: when any class or type of a predetermined token is sent to a specific Token Immigration Gateway (TIG) by a holder, the holder receives another newly minted token (a Monkey Inter-Exchange (MIX) Token) either at the same address or in another address of their choice elsewhere.  
+
+3.	Additionally, POV mining provides Blockchain Token Gateways (BTGs) Token Immigration Gateways (TIGs) and Proof of Value token holders (Coeval Alpha) crypto rewards. 
+
+
+
+MONKEY CRYTPO ASSET EXCHANGE PLATFORM (MCAXP) COMPONENTS:
+
+1.	Proof of Value (POV) mining and Blockchain Transfer Gateways (BTGs) in Inter-Blockchain Transfers:
+
+Inter-Blockchain Transfers (bidirectional and multidirectional function).
+
+POV mining allows Inter-Blockchain Transfer (bidirectional and multidirectional) via Blockchain specific Blockchain Transfer Gateways (BTGs) and provides the mechanism by which existing Waves and ER20 based Monkey Token Assets may be transferred from one blockchain to another. 
+
+There are currently 14 Monkey Assets:
 
   Waves Tokens
   COE, MNY, ZUS, MARS, PRE, PVT, PLC, KEY, CHANCE, PLAYER, COA
@@ -26,16 +39,44 @@ The Monkey Inter-Exchange Software (MIXS) provides the mechanims by which existi
   Ethereum Tokens
   PRE, COE, MNY (pending)
   
-Via the MIXS, any of these tokens may be transferred to any of the other blockchains.  For example  MNY (waves) could be sent to the MIXS and transferred to the PRE (ethereum) blockchain and then sent to the MIXS and transferred to the Mars (waves) blockchain and then finally sent to the MIXS and transferred to the PLAYER (waves) blockchain. 
+Via specified BTGs, any of these tokens may be transferred from their native blockchain to any of the other blockchains.  The transfers are bidirectional and multidirectional.  In the bidirectional example, MNY (waves) could be sent to the PRE Blockchain Transfer Gateway (PREBTG) and transferred to the PRE (ER20) blockchain, and then subsequently sent to the MNYBTG and transferred back to the MNY (Waves) blockchain. 
 
-(question here -- what if someone transferes to the COA blockchain, what does that do to POV mining? and the rights of the token that was transferred to the COA blockchain?)
+(insert bidirectional diagram). 
 
-(futher, to be addressed below in use cases, what would be a utility example of COA on the PRE blockchain?)
+In the case of multidirections, MNY (waves) could be sent to the PREBTG and transferred to the PRE (ER20) blockchain, and then subsequently sent to the MARSBTG and transferred to the Mars (Waves) blockchain, and then finally sent to the PLAYERBTG and transferred to the PLAYER (Waves) blockchain.
 
-(insert diagram here by Palfrun, Topham, or Danny)
+(insert multidirectional diagram)
 
 
-Use Cases:
+2.	Proof of Value (POV) mining and Token Immigration Gateways (TIGs) in Token Immigraion:
+ 
+Token Immigration (unidirectional only)
+
+Via POV mining, when non-Monkey tokens are sent to a specified Token Immigration Gateways (TIG), newly created Monkey Inter-Exchange (MIX) tokens are remitted to the wallet of the sender, constituting a Token Immigration opportunity for dormant or devalued tokens to assume new functionality in the active Monkey Inter-Exchange (MIX) Blockchain.  For example, if a wallet holder sends in a S*coin to the TIG, the TIG issues a Monkey Inter-Exchange (MIX) token back to their wallet.  This functions as a mechanism to upcycle and reuse dormant and devalued tokens.  Token Immigration provides the opportunity to recapture token utility that had been overlooked, under-realized, or abandoned, and also innovates new token utility via the relationship between blockchains.
+
+Unlike Inter-Blockchain Transfers, Token Immigration is unidirectional.  Once S*coin tokens have Immigrated to the MIX blockchain and have become MIX Tokens, they can not return to their original blockchain or assume their original Token status. 
+
+(insert diagram here)
+
+The Immigration Exchange Rate of Token Immigration will be different for each incoming assets and will be noted on the MCAXP. 
+
+2B. Proof of Value (POV) mining reward.
+
+Each Blockchain Transfer Gateway (BTG) and each Token Immigration Gateway (TIG) as well as Coeval alpha (COA) will receive crytpo rewards related to POV mining. 
+
+
+
+3.	Monkey Inter-Exchange (MIX) Tokens
+
+MIX tokens, which are issued upon Immigration from external blockchains, will function as the sole token in the MIX blockchain. 
+
+(questions here on how issuance will related to quantity of MIX).
+
+
+
+
+
+
 
 
 
