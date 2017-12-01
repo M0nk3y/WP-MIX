@@ -8,8 +8,25 @@ Monkey (m0nk3y) Capital creates the first Inter-Blockchain fungibility mechanism
 
 Intro: 
 
-While Blockchain Tokens have utility within their own system (typically either as use-case or store-of-value), they are vertically locked.  That is, with the exception of trading one blockchain token against another (value against value) on token exchanges, Tokens function only within their own blockchain, and only for specific and limited use cases.  The Monkey (m0nk3y) Crypto Assex eXchange Platform (MCAXP) will Liberate Token Utility to create numerous options for value creation, and will do this via novel 2 mechanisms. 
+While Blockchain Tokens have utility within their own system (typically either as use-case or store-of-value), they are vertically locked.  That is, with the exception of trading one blockchain token against another (value against value) on token exchanges, Tokens function only within their own blockchain, and only for specific and limited use cases.  The Monkey (m0nk3y) Crypto Asset eXchange Platform (MCAXP) will Liberate Token Utility to create numerous options for value creation, and will do this via novel 2 mechanisms. 
 
 1. The Monkey (m0nk3y) Inter-Exchange Software (MIXS) will allow real Inter-Blockchain transactions, meaning true 1:1 blockchain fungibility, and will redefine Tokens, Blockchains, and Utility. 
 
 2. MIXS will also upcycle dormant or devalued tokens by accepting token submissions and remitting Monkey Inter-Exchange (MIX) Tokens in return, thereby producing further inter blockchain utility options. 
+
+
+
+Monkey Crytpo Asset Exchange Platform (MCAXP) Components:
+
+The Monkey Inter-Exchange Software (MIXS) provides the mechanims by which existing Waves and ER20 based Monkey Token Assets may be transferred from one blockchain to another.  There are currently 14 Monkey Assets:
+
+  Waves Tokens
+  COE, MNY, ZUS, MARS, PRE, PVT, PLC, KEY, CHANCE, PLAYER, COA
+  
+  Ethereum Tokens
+  PRE, COE, MNY (pending)
+  
+Via the MIXS, any of these tokens may be transferred on to another blockchain.  For example  MNY (waves) could be sent to the MIXS and transferred to the PRE (ethereum) blockchain.   
+
+
+
