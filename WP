@@ -17,7 +17,7 @@ While Blockchain Tokens have utility within their own system (typically either a
 
 1.	POV mining will allow Inter-blockchain transactions via Blockchain Transfer Gateways (BTG’s).  BTG’s will allow real Inter-Blockchain transactions, meaning true 1:1 blockchain fungibility, among designated assets.  True Inter-Blockchain transactions will further redefine tokens, blockchains, value, and utility.
 
-2.	POV mining will also provide Token Immigration.  POV Token Immigration works like this: when any class or type of a predetermined token is sent to a specific Token Immigration Gateway (TIG) by a holder, the holder receives another newly minted token (a Monkey Inter-Exchange (MIX) Token) either at the same address or in another address of their choice elsewhere.  
+2.	POV mining will also provide Token Immigration.  POV Token Immigration works like this: when any class or type of a predetermined token is sent to a specific Token Immigration Gateway (TIG) by a holder, the holder receives another newly minted token (a Monkey Inter-Exchange (MIX) Token) on the Venture Currency Blockchain, either at the same address or in another address of their choice elsewhere.  
 
 3.	Additionally, POV mining provides Blockchain Token Gateways (BTGs) Token Immigration Gateways (TIGs) and Proof of Value token holders (Coeval Alpha) crypto rewards. 
 
@@ -52,9 +52,9 @@ In the case of multidirections, MNY (waves) could be sent to the PREBTG and tran
  
 Token Immigration (unidirectional only)
 
-Via POV mining, when non-Monkey tokens are sent to a specified Token Immigration Gateways (TIG), newly created Monkey Inter-Exchange (MIX) tokens are remitted to the wallet of the sender, constituting a Token Immigration opportunity for dormant or devalued tokens to assume new functionality in the active Monkey Inter-Exchange (MIX) Blockchain.  For example, if a wallet holder sends in a S*coin to the TIG, the TIG issues a Monkey Inter-Exchange (MIX) token back to their wallet.  This functions as a mechanism to upcycle and reuse dormant and devalued tokens.  Token Immigration provides the opportunity to recapture token utility that had been overlooked, under-realized, or abandoned, and also innovates new token utility via the relationship between blockchains.
+Via POV mining, when non-Monkey tokens are sent to a specified Token Immigration Gateways (TIG), newly created Monkey Inter-Exchange (MIX) tokens are remitted to the wallet of the sender, constituting a Token Immigration opportunity for dormant or devalued tokens to assume new functionality in the active Monkey Inter-Exchange (MIX) Blockchain.  For example, if a wallet holder sends in a token to the TIG, the TIG issues a Monkey Inter-Exchange (MIX) token back to their wallet.  This functions as an additional source of utility and value to the Monkey assets and will also, in the future, provide a mechanism to upcycle and reuse dormant and devalued tokens.  Token Immigration provides the opportunity to synergize with existing, functioning Monkey Asset Blockchains and also allows the opportunity to recapture token utility that had been overlooked, under-realized, or abandoned in other tokens.  POV mining and Token Immigration innovates new token utility via the relationship between blockchains.
 
-Unlike Inter-Blockchain Transfers, Token Immigration is unidirectional.  Once S*coin tokens have Immigrated to the MIX blockchain and have become MIX Tokens, they can not return to their original blockchain or assume their original Token status. 
+Unlike Inter-Blockchain Transfers, Token Immigration is unidirectional.  Once tokens have Immigrated to the MIX blockchain and have become MIX Tokens, they can not return to their original blockchain or assume their original Token status. 
 
 (insert diagram here)
 
@@ -68,9 +68,61 @@ Each Blockchain Transfer Gateway (BTG) and each Token Immigration Gateway (TIG) 
 
 3.	Monkey Inter-Exchange (MIX) Tokens
 
-MIX tokens, which are issued upon Immigration from external blockchains, will function as the sole token in the MIX blockchain. 
+MIX tokens, which are issued upon Immigration from external blockchains, will function as the sole token in the Venture Currency blockchain. 
 
 (questions here on how issuance will related to quantity of MIX).
+
+
+BLOCKCHAINS HARDFORKS, BLOCKCHAIN TRANSFERS, AND TOKEN IMMIGRATION:
+
+In order to create greater utility via multi-fungibility, we will employ a hardfork on the Ethereum Blockchain.  Current Monkey Token Assets As a results include:
+
+ Waves Tokens
+  COE, MNY, ZUS, MARS, PRE, PVT, PLC, KEY, CHANCE, PLAYER, COA
+  
+  Ethereum Tokens
+  PRE, COE, MNY (pending)
+  
+When we implement the Ethereum Fork we will then have:
+
+ Waves Tokens
+  COE, MNY, ZUS, MARS, PRE, PVT, PLC, KEY, CHANCE, PLAYER, COA
+  
+ Ethereum Tokens
+  PRE, COE, MNY (pending)
+  
+ Ethereum Classic Tokens 
+  PRE, COE, MNY (pending 
+  
+There will be multi-fungibility (Blockchain Transfer) among the following blockchains. 
+
+1. Waves
+2. Ethereum
+3. Ethereum Classic
+
+Additionally, on the Venure Currency Blockchain, MIX, will function as the 
+
+Venture Currency
+
+
+NETWORK:
+
+
+
+INCENTIVES:
+
+
+MONKEY ASSETS, BLOCKCHAIN HARDFORKS, AND 
+
+Current Monkey Assets Include:
+
+
+  Waves Tokens
+  COE, MNY, ZUS, MARS, PRE, PVT, PLC, KEY, CHANCE, PLAYER, COA
+  
+  Ethereum Tokens
+  PRE, COE, MNY (pending)
+
 
 
 
