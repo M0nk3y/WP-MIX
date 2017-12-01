@@ -26,7 +26,13 @@ The Monkey Inter-Exchange Software (MIXS) provides the mechanims by which existi
   Ethereum Tokens
   PRE, COE, MNY (pending)
   
-Via the MIXS, any of these tokens may be transferred on to another blockchain.  For example  MNY (waves) could be sent to the MIXS and transferred to the PRE (ethereum) blockchain.   
+Via the MIXS, any of these tokens may be transferred to any of the other blockchains.  For example  MNY (waves) could be sent to the MIXS and transferred to the PRE (ethereum) blockchain and then sent to the MIXS and transferred to the Mars (waves) blockchain and then finally sent to the MIXS and transferred to the PLAYER (waves) blockchain. 
+
+(question here -- what if someone transferes to the COA blockchain, what does that do to POV mining? and the rights of the token that was transferred to the COA blockchain?)
+
+(futher, to be addressed below in use cases, what would be a utility example of COA on the PRE blockchain?)
+
+(insert diagram here by Palfrun, Topham, or Danny)
 
 
 
