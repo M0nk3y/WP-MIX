@@ -1,5 +1,5 @@
 # WP-MIX
-Next iteration for m0nk3y to include Monkey (m0nke3y) Inter-Exchange (MIX) Functionality and Monkey (m0nk3y) Inter-Exchange (MIX) Token 
+This is the White Paper for Inter-Exchagne (MIX) Token and Platform.  
 
 In the associated files, pls edit and add content toward WP MIX.
 
