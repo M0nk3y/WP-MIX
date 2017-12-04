@@ -1,13 +1,14 @@
 
 
 
+
 WP
 
 
 
 ABSTRACT:
 
-Monkey (m0nk3y) creates the first Inter-Blockchain fungibility mechanism [the Monkey Crypto Asset eXchange Platform (MCAXP)] allowing Inter-Blockchain exchange of a family of Waves and ER20 based existing Token Assets, and ceates the first Venture Currency [Monkey Inter-Exchange Token (MIX)] that is 1:1 fungible with a myriad of Monkey and Non-Monkey Tokens.  These blockchain innovations are made possible by Proof of Value (POV) mining. 
+Monkey (m0nk3y)(or Venure Currency?) creates the first mechanism for Inter-Blockchain fungibility -- the Monkey Crypto (or Venture Currency) Asset eXchange Platform (MCAXP or VCAXP)] allowing Inter-Blockchain exchange for a family of Waves and ER20 based Token Assets, and creates the first Venture Currency [Monkey (or Money) Inter-Exchange Token (MIX)] that is 1:1 fungible with a myriad of Monkey (or Waves) and Non-Monkey Tokens.  (These blockchain innovations are made possible by Proof of Value (POV) mining (to include?)). 
 
 
 
@@ -52,7 +53,7 @@ In the case of multidirections, MNY (waves) could be sent to the PREBTG and tran
  
 Token Immigration (unidirectional only)
 
-Via POV mining, when non-Monkey tokens are sent to a specified Token Immigration Gateways (TIG), newly created Monkey Inter-Exchange (MIX) tokens are remitted to the wallet of the sender, constituting a Token Immigration opportunity for dormant or devalued tokens to assume new functionality in the active Monkey Inter-Exchange (MIX) Blockchain.  For example, if a wallet holder sends in a token to the TIG, the TIG issues a Monkey Inter-Exchange (MIX) token back to their wallet.  This functions as an additional source of utility and value to the Monkey assets and will also, in the future, provide a mechanism to upcycle and reuse dormant and devalued tokens.  Token Immigration provides the opportunity to synergize with existing, functioning Monkey Asset Blockchains and also allows the opportunity to recapture token utility that had been overlooked, under-realized, or abandoned in other tokens.  POV mining and Token Immigration innovates new token utility via the relationship between blockchains.
+Via POV mining, when non-Monkey tokens are sent to a specified Token Immigration Gateways (TIG), newly created Monkey Inter-Exchange (MIX) tokens are remitted to the wallet of the sender, constituting a Token Immigration opportunity for dormant or devalued tokens to assume new functionality in the active MIX (or Venture Currency?) Blockchain .  For example, if a wallet holder sends in a token to the TIG, the TIG issues a Monkey Inter-Exchange (MIX) token back to their wallet.  This functions as an additional source of utility and value to the Monkey assets and will also, in the future, provide a mechanism to upcycle and reuse dormant and devalued tokens.  Token Immigration provides the opportunity to synergize with existing, functioning Monkey Asset Blockchains and also allows the opportunity to recapture token utility that had been overlooked, under-realized, or abandoned in other tokens.  POV mining and Token Immigration innovates new token utility via the relationship between blockchains.
 
 Unlike Inter-Blockchain Transfers, Token Immigration is unidirectional.  Once tokens have Immigrated to the MIX blockchain and have become MIX Tokens, they can not return to their original blockchain or assume their original Token status. 
 
@@ -68,14 +69,14 @@ Each Blockchain Transfer Gateway (BTG) and each Token Immigration Gateway (TIG) 
 
 3.	Monkey Inter-Exchange (MIX) Tokens
 
-MIX tokens, which are issued upon Immigration from external blockchains, will function as the sole token in the Venture Currency blockchain. 
+MIX tokens, which are issued upon Immigration from external blockchains, will function as the sole token in the Venture Currency Blockchain. 
 
 (questions here on how issuance will related to quantity of MIX).
 
 
 FORKS, BLOCKCHAIN TRANSFERS, AND TOKEN IMMIGRATION:
 
-In order to create greater utility via multi-fungibility, we will employ a fork on the Ethereum Blockchain.  Current Monkey Token Assets As a results include:
+In order to create greater utility via multi-fungibility, we will employ a fork on the Ethereum Blockchain.  Current Monkey Token Assets include:
 
  Waves Tokens
   COE, MNY, ZUS, MARS, PRE, PVT, PLC, KEY, CHANCE, PLAYER, COA
@@ -88,11 +89,11 @@ When we implement the Ethereum Fork we will then have:
  Waves Tokens
   COE, MNY, ZUS, MARS, PRE, PVT, PLC, KEY, CHANCE, PLAYER, COA
   
- Ethereum Tokens
-  PRE, COE, MNY (pending)
+ Ethereum New Tokens
+  New PRE, New COE, New MNY (pending)
   
  Ethereum Classic Tokens 
-  PRE, COE, MNY (pending 
+  Classic PRE, Classic COE, Classic MNY (pending 
   
 There will be multi-fungibility (Blockchain Transfer) among the following blockchains. 
 
@@ -100,28 +101,59 @@ There will be multi-fungibility (Blockchain Transfer) among the following blockc
 2. Ethereum
 3. Ethereum Classic
 
-Additionally, on the Venure Currency Blockchain, MIX, will function as the 
+Additionally, on the newly created Venture Currency Blockchain, MIX, will function as the sole token.  The Waves Tokens (COE, MNY, ZUZ, MARS, PRE, PVT, PLC, KEY, CHANCE, PLAYER, and COA), The Ethereum New Tokens (New PRE, New COE, New MNY), and the Ethereum Classic Tokens (Classic PRE, Classic COE, Classic MNY) will all have 1-way exchange properties via the Token Immigration Gateway (TIG) to allow conversion to MIX. 
 
-Venture Currency
 
 
 NETWORK:
+
+The Network for running the first ever Inter-Blockchain fungibility Platform -- the Monkey Crypto (or Venture Currency) Asset eXchange Platform (MCAXP or VCAXP has been constructed as follows. 
+
+Lol – per Risknerd here.  
+
+
+
+MECHANISM FOR POV MINING FOR BLOCKCHAIN TRANSFER GATEWAYS (BTGs) AND TOKEN IMMIGRATION GATEWAYS (TIGs):  
+
+
+Lol – again, Risknerd here. 
 
 
 
 INCENTIVES:
 
+Each Blockchain Transfer Gateway (BTG) will receive crypto-reward for performing the Blockchain Transfer.  The Reward for BTG POV mining will be (….X….). 
 
-MONKEY ASSETS, BLOCKCHAIN FORKS, AND 
+There will be a BTG into each Blockchain (correct?)
 
-Current Monkey Assets Include:
+Also, Token Immigration Gateways (TIGs) will similarly receive crypto-rewards for performing Token Immigration.  The rewards for TIG POV mining will be the incoming cryptocurrency assets.
 
 
-  Waves Tokens
-  COE, MNY, ZUS, MARS, PRE, PVT, PLC, KEY, CHANCE, PLAYER, COA
-  
-  Ethereum Tokens
-  PRE, COE, MNY (pending)
+USE CASES:
+
+As noted above, current understanding of token utility is limited to store-of-value and use-case with some variation (such as contracts and gas via ETH).  Via the Monkey Crypto (or Venture Currency) Asset eXchange Platform (MCAXP or VCAXP), Proof-of-value(POV) Mining, Blockchain Transfer Gateways (BTGs) and Token Immigration Gateways (TIG’s) Monkey Capital (or Venture Currency) has produced the next evolution of blockchain.  Monkey Capital (or Venture Currency) has enabled true blockchain exchange, 1:1 fungibility, and enabled synergism beyond the vertically locked token/blockchain system.  
+
+For Example:
+
+	
+1.	Inter-Blockchain Exchange has never existed.  In the same way that Blockchain created value opportunities, Token Exchanges created value opportunities, and Token Contracts created value opportunities, Inter-Blockchain Exchange will herald the next wave of Blockchain innovation.  The following values are some that may be created:
+
+a.	If gas or gas equivalent is lower on one blockchain than another, an asset can be Exchanged to the lower costing blockchain, sent to the appropriate destination, and then Exchanged back to the original Blockchain. 
+b.	There will likely be numerous arbitrage opportunities that arise form Inter-Blockchain Transfer. 
+c.	Super Special Star Trek Type Other Bonus Opportunities Go Here. Lol. 
+
+2.	Underused, undervalued, or dead tokens may be Immigrated to the MIX platform to be upcycled.  Via Token Immigration the following values are created:
+ 
+a.	The dead and unused token regain value in a new and functioning blockchain. 
+b.	The dead and used tokens, once collected as crypto-rewards may be sold, re-used, or incorporated in new or associated projects. 
+c.	Blockchains that previously had no relationship are now associated with each other and the strengths of each community can contribute to the value of one another. 
+d.	Each blockchain may benefit from the potential leverages created by association. 
+
+
+CONCLUSION:  
+
+
+
 
 
 
